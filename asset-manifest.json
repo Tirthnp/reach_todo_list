@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reach_todo_list/static/css/main.298ff9cd.chunk.css",
+    "main.js": "/reach_todo_list/static/js/main.7a8ccf2e.chunk.js",
+    "main.js.map": "/reach_todo_list/static/js/main.7a8ccf2e.chunk.js.map",
+    "runtime~main.js": "/reach_todo_list/static/js/runtime~main.bfef0bc1.js",
+    "runtime~main.js.map": "/reach_todo_list/static/js/runtime~main.bfef0bc1.js.map",
+    "static/js/2.83cbff7a.chunk.js": "/reach_todo_list/static/js/2.83cbff7a.chunk.js",
+    "static/js/2.83cbff7a.chunk.js.map": "/reach_todo_list/static/js/2.83cbff7a.chunk.js.map",
+    "index.html": "/reach_todo_list/index.html",
+    "precache-manifest.0b4ac1870ceb8b1762799f1253f5ba82.js": "/reach_todo_list/precache-manifest.0b4ac1870ceb8b1762799f1253f5ba82.js",
+    "service-worker.js": "/reach_todo_list/service-worker.js",
+    "static/css/main.298ff9cd.chunk.css.map": "/reach_todo_list/static/css/main.298ff9cd.chunk.css.map"
+  }
+}
